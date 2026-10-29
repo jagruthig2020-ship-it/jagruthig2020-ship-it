@@ -1,46 +1,104 @@
-# Hey, I'm Jagruthi! 🌙
+<div align="center">
 
-**Building at the intersection of machine learning, hardware & curiosity.**
+# jagruthi guttula.
 
-Computer Science Undergraduate · Hyderabad, India
+*somewhere between an idea and a working prototype.*
 
-*I like turning "what if?" into something that actually works.*
+**machine learning · hardware · embedded systems · ar/vr**
+
+I like building things. Sometimes they work on the first try. Usually, they get more interesting when they don't.
+
+</div>
 
 ---
 
-### A little about me
+### `~/about`
 
-- 🧠 Exploring machine learning, intelligent systems and real-world applications of AI.
-- 🔧 Interested in embedded systems, sensors and building things that connect software with the physical world.
-- 🚀 I enjoy hackathons, experimenting with ideas and learning by building.
-- 🌌 Curious about space technology, computer vision and human-centered technology.
-- 💡 Currently working on ChronoMind AI and exploring what to build next.
+Hey, I'm Jagruthi — a computer science student who gets a little too invested in turning ideas into actual things.
 
-### What I've been building
+I enjoy experimenting with machine learning, hardware, intelligent systems, and whatever technology catches my curiosity.
 
-| Project | About |
+I like projects where software meets the physical world. Especially when there's something new to figure out.
+
+<details>
+<summary>↳ a few things about me</summary>
+
+- I like late-night building sessions.
+- I'm interested in AR/VR, computer vision, hardware, and space technology.
+- I enjoy hackathons and figuring things out as I go.
+- My favorite projects usually begin with *"wait, what if we tried this?"*
+
+</details>
+
+---
+
+### `~/the-workbench`
+
+**01 / ASTRA** — *systems that recover*
+
+A spacecraft-inspired fault detection and recovery prototype using two ESP32 microcontrollers, sensor telemetry, and independent supervision.
+
+[Explore ASTRA](https://github.com/jagruthig2020-ship-it/ASTRA)
+
+---
+
+**02 / RaceOS** — *decisions at 300 km/h*
+
+A machine learning experiment exploring Formula 1 pit-stop strategy, tyre behaviour, and race decisions.
+
+[Explore RaceOS](https://github.com/jagruthig2020-ship-it/RaceOS)
+
+---
+
+**03 / Trekker** — *a little more peace of mind*
+
+A wearable safety system exploring location tracking, health sensing, and emergency communication.
+
+*Prototype project*
+
+---
+
+**04 / ChronoMind AI** — *your brain has its own schedule*
+
+A personalized cognitive intelligence system exploring how performance varies throughout the day and how software can adapt to individual rhythms.
+
+*Currently building*
+
+---
+
+**05 / ???** — *something is taking shape*
+
+An idea that's still being figured out. This space is intentionally unfinished.
+
+---
+
+### `~/toolbox`
+
+| The territory | Things I work with |
 |---|---|
-| [ASTRA](https://github.com/jagruthig2020-ship-it/ASTRA) | A spacecraft-inspired fault detection, isolation and recovery system using ESP32 microcontrollers. |
-| [RaceOS](https://github.com/jagruthig2020-ship-it/RaceOS) | Machine learning for Formula 1 pit-stop strategy prediction. |
-| Trekker | A safety wearable combining GPS, health sensing and emergency communication. |
-| ChronoMind AI 🚧 | A personalized cognitive intelligence system that learns individual performance patterns and helps plan around them. |
-
-**Currently exploring:** A new hardware + software project. More soon.
-
-### My toolkit
-
-**Languages:** Python · C · C++ · SQL
-
-**Machine Learning:** scikit-learn · TensorFlow · OpenCV · NumPy · Pandas
-
-**Hardware:** ESP32 · Sensors · Microcontrollers · Embedded Systems
-
-**Development:** FastAPI · Streamlit · Git · GitHub
+| `01 / languages` | Python · C · C++ · SQL |
+| `02 / intelligence` | scikit-learn · TensorFlow · OpenCV · NumPy · Pandas |
+| `03 / physical computing` | ESP32 · Sensors · I²C · Microcontrollers |
+| `04 / applications` | FastAPI · Streamlit · Git · GitHub |
+| `05 / curiosities` | AR/VR · Computer Vision · Space Technology · Hardware |
 
 ---
 
-### Beyond the code
+<details>
+<summary><b>↳ currently on my mind</b></summary>
 
-I'm interested in projects that challenge me to learn something unfamiliar, whether that's understanding a dataset, debugging a circuit or trying to make an ambitious idea work with limited resources.
+How do you make technology feel less like a screen and more like something you can interact with?
 
-*Always curious. Usually building something.*
+That's the kind of question I keep coming back to — whether through a wearable, a sensor-based prototype, a machine learning model, or an immersive environment.
+
+</details>
+
+---
+
+<div align="center">
+
+`experimenting...` · `breaking things...` · `building again...`
+
+*probably working on another idea right now.*
+
+</div>
