@@ -1,86 +1,70 @@
+
 <div align="center">
 
-# jagruthi guttula.
+# Hey, I'm Jagruthi! 🌙
 
-*somewhere between an idea and a working prototype.*
+**Computer Science Undergraduate | ML & Embedded Systems Enthusiast**
 
-**machine learning · hardware · embedded systems · ar/vr**
+*I love turning ideas into things that actually work.*
 
-I like building things. Sometimes they work on the first try. Usually, they get more interesting when they don't.
+Exploring machine learning, hardware, computer vision, and the possibilities of AR/VR.
+
+[GitHub](https://github.com/jagruthig2020-ship-it) · [Portfolio](https://github.com/jagruthig2020-ship-it/Portfolio)
 
 </div>
 
 ---
 
-### `~/about`
+## ✨ About Me
 
-Hey, I'm Jagruthi — a computer science student who gets a little too invested in turning ideas into actual things.
-
-I enjoy experimenting with machine learning, hardware, intelligent systems, and whatever technology catches my curiosity.
-
-I like projects where software meets the physical world. Especially when there's something new to figure out.
-
-<details>
-<summary>↳ a few things about me</summary>
-
-- I like late-night building sessions.
-- I'm interested in AR/VR, computer vision, hardware, and space technology.
-- I enjoy hackathons and figuring things out as I go.
-- My favorite projects usually begin with *"wait, what if we tried this?"*
-
-</details>
+- 🎓 Computer Science undergraduate at Gokaraju Lailavathi Engineering College, Hyderabad.
+- 🧠 Passionate about **Machine Learning, AI, Computer Vision, and Embedded Systems**.
+- 🔧 I enjoy experimenting with hardware, sensors, and software to build practical solutions.
+- 🌱 Part of **Dexterity School of Leadership & Entrepreneurship**, exploring leadership and innovation.
+- 🚀 I love hackathons, collaborative building, and learning through hands-on projects.
+- 🪐 Interested in **AR/VR, space technology, human-centered AI, and emerging technologies**.
 
 ---
 
-### `~/the-workbench`
+## 🪐 Tech Stack
 
-**01 / ASTRA** — *systems that recover*
+<div align="center">
 
-A spacecraft-inspired fault detection and recovery prototype using two ESP32 microcontrollers, sensor telemetry, and independent supervision.
+<img src="./assets/orbiting-tech.gif" width="100%" alt="Animated space-themed tech stack with orbiting technologies and twinkling stars"/>
 
-[Explore ASTRA](https://github.com/jagruthig2020-ship-it/ASTRA)
-
----
-
-**02 / RaceOS** — *decisions at 300 km/h*
-
-A machine learning experiment exploring Formula 1 pit-stop strategy, tyre behaviour, and race decisions.
-
-[Explore RaceOS](https://github.com/jagruthig2020-ship-it/RaceOS)
+</div>
 
 ---
 
-**03 / Trekker** — *a little more peace of mind*
+## 🚀 Things I've Built
 
-A wearable safety system exploring location tracking, health sensing, and emergency communication.
+**01 · [ASTRA](https://github.com/jagruthig2020-ship-it/ASTRA)**
 
-*Prototype project*
+A spacecraft-inspired fault detection, isolation, and recovery prototype using ESP32 microcontrollers, sensor telemetry, and independent supervision.
 
----
+**02 · [RaceOS](https://github.com/jagruthig2020-ship-it/RaceOS)**
 
-**04 / ChronoMind AI** — *your brain has its own schedule*
+A machine learning project exploring Formula 1 pit-stop predictions, tyre strategy, and data-driven racing decisions.
 
-A personalized cognitive intelligence system exploring how performance varies throughout the day and how software can adapt to individual rhythms.
+**03 · Trekker**
 
-*Currently building*
+A safety wearable prototype integrating GPS, physiological sensing, and emergency communication for outdoor safety.
 
----
+**04 · [Smart Nerf Controller](https://github.com/jagruthig2020-ship-it/nerf-controller)**
 
-**05 / ???** — *something is taking shape*
-
-An idea that's still being figured out. This space is intentionally unfinished.
+An experimental physical game controller using ESP32, motion sensors, and interactive feedback.
 
 ---
 
-### `~/toolbox`
+## 🌱 Currently Exploring
 
-| The territory | Things I work with |
-|---|---|
-| `01 / languages` | Python · C · C++ · SQL |
-| `02 / intelligence` | scikit-learn · TensorFlow · OpenCV · NumPy · Pandas |
-| `03 / physical computing` | ESP32 · Sensors · I²C · Microcontrollers |
-| `04 / applications` | FastAPI · Streamlit · Git · GitHub |
-| `05 / curiosities` | AR/VR · Computer Vision · Space Technology · Hardware |
+**[ChronoMind AI](https://github.com/jagruthig2020-ship-it/ChronoMind-AI)**
+
+An intelligent cognitive-performance system exploring how attention and response patterns change throughout the day, with personalized predictions and adaptive scheduling.
+
+**Miniature Roadster — Concept Stage**
+
+Exploring the design of a miniature Roadster-inspired vehicle, combining embedded control, mechanical design, and experimental mobility.
 
 ---
 
@@ -93,12 +77,10 @@ That's the kind of question I keep coming back to — whether through a wearable
 
 </details>
 
----
-
 <div align="center">
 
-`experimenting...` · `breaking things...` · `building again...`
+experimenting... · breaking things... · building again...
 
-*probably working on another idea right now.*
+probably working on another idea right now.
 
 </div>
