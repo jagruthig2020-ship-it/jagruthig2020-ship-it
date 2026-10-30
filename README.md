@@ -30,7 +30,7 @@ Exploring machine learning, hardware, computer vision, and the possibilities of 
 
 <div align="center">
 
-<img src="./assets/orbiting-tech.gif" width="100%" alt="Animated space-themed tech stack with orbiting technologies and twinkling stars"/>
+<img src="./orbiting-tech.gif" width="100%" alt="Animated space-themed tech stack with orbiting technologies and twinkling stars"/>
 
 </div>
 
